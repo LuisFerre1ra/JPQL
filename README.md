@@ -1,2 +1,13 @@
-# JPQL
-Trabajo Práctico Desarrollo de Software – JPQL. Grupo 17 3k9. 
+# Trabajo Práctico Desarrollo de Software – JPQL
+
+**Grupo:** 17  
+**Comisión:** 3K9  
+
+## Integrantes del equipo
+
+- Aciar, Julián
+- Carrillo, Facundo
+- Ferreira, Luis
+- García, Joaquín
+- Huallpa, Martín
+- Vega, Nicolás
